@@ -1,0 +1,6 @@
+# Standards: 1.2
+---
+# @var clockify_package:description: Download URL for the package to install
+clockify_package: https://clockify.me/downloads/Clockify_Setup.deb
+
+...
